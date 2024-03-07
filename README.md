@@ -1,11 +1,12 @@
-# Project Title : Movie-Ratings-Prediction-using-Autoencoder
+# Project Title : Movie-Ratings-Prediction-using-Stack-Autoencoder
 
 ## Overview:
-This project involves building a movie rating prediction model using Autoencoder neural networks. The code for this project was developed as part of the "Deep Learning A-Z 2023: Neural Networks, AI & ChatGPT Prize" course on Udemy. I have made the necessary changes by adding some more lines of code and comments while practicing and building it.
+The project Aim is to predict the what is the rating is is give the perticuler project if the new movie is relise.
 
 ## Dependencies:
 - Python 3.x
 - TensorFlow
+- Pytorch
 - Keras
 
 ## Instructions:
